@@ -1,5 +1,5 @@
 # bert4keras-CMLM
-- [CMLM](https://arxiv.org/pdf/2012.14388.pdf)的非官方实现。
+- BERT [CMLM](https://arxiv.org/pdf/2012.14388.pdf)的非官方实现。
 - 参考&依赖 https://github.com/bojone/bert4keras/blob/master/pretraining/pretraining.py 
 - saved模型与0.9.9.版本的`bert4keras.models.BERT`兼容
 
